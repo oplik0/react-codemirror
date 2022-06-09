@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_uiw_react_codemirror=self.webpackChunk_uiw_react_codemirror||[]).push([[8898],{8898:function(e,c,r){r.r(c),c.default="Content-Security-Policy: default-src 'self'; img-src *; media-src media1.com media2.com; script-src userscripts.example.com"}}]);
-//# sourceMappingURL=8898.a860d3f7.chunk.js.map

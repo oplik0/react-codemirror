@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_uiw_react_codemirror=self.webpackChunk_uiw_react_codemirror||[]).push([[3522],{3522:function(r,e,n){n.r(e),e.default='# Example of a .gitconfig file\r\n\r\n[core]\r\n  repositoryformatversion = 0\r\n  filemode = false\r\n  bare = false\r\n  logallrefupdates = true\r\n  symlinks = false\r\n  ignorecase = true\r\n  hideDotFiles = dotGitOnly\r\n\r\n# Defines the master branch\r\n[branch "master"]\r\n  remote = origin\r\n  merge = refs/heads/master\r\n'}}]);
+//# sourceMappingURL=3522.be080ac5.chunk.js.map

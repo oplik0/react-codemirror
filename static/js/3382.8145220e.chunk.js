@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_uiw_react_codemirror=self.webpackChunk_uiw_react_codemirror||[]).push([[3382],{3382:function(n,e,a){a.r(e),e.default='import banana\r\n\r\n\r\nclass Monkey:\r\n    # Bananas the monkey can eat.\r\n    capacity = 10\r\n    def eat(self, n):\r\n        """Make the monkey eat n bananas!"""\r\n        self.capacity -= n * banana.size\r\n\r\n    def feeding_frenzy(self):\r\n        self.eat(9.25)\r\n        return "Yum yum"\r\n'}}]);
+//# sourceMappingURL=3382.8145220e.chunk.js.map

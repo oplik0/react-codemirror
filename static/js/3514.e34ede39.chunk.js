@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_uiw_react_codemirror=self.webpackChunk_uiw_react_codemirror||[]).push([[3514],{3514:function(e,n,t){t.r(n),n.default='<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset="UTF-8">\n        <title>{% block title %}Welcome!{% endblock %}</title>\n        {% block stylesheets %}{% endblock %}\n    </head>\n    <body>\n        {% block body %}{% endblock %}\n        {% block javascripts %}{% endblock %}\n    </body>\n</html>\n'}}]);
-//# sourceMappingURL=3514.e34ede39.chunk.js.map
