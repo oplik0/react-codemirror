@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[2255],{2255:function(n,e,i){i.r(e),e.default="#!/usr/bin/perl\nuse strict;\nuse warnings;\n\nuse Path::Tiny;\n\nmy $dir = path('foo','bar'); # foo/bar\n\n# Iterate over the content of foo/bar\nmy $iter = $dir->iterator;\nwhile (my $file = $iter->()) {\n\n    # See if it is a directory and skip\n    next if $file->is_dir();\n\n    # Print out the file name and path\n    print \"$file\\n\";\n}"}}]);
+//# sourceMappingURL=2255.12e8797c.chunk.js.map
