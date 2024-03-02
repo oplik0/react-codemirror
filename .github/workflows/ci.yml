@@ -41,7 +41,7 @@ jobs:
 
       - name: Create Tag
         id: create_tag
-        uses: jaywcjlove/create-tag-action@v1.3.7
+        uses: jaywcjlove/create-tag-action@v1.3.20
         with:
           package-path: ./core/package.json
 
